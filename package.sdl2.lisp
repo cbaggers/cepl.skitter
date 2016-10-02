@@ -18,6 +18,7 @@
    :key-down-p
    :key-id
 
+   :window
    :window-pos
    :window-size
    :window-layout
